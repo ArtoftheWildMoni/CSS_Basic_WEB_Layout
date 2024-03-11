@@ -23,6 +23,7 @@ transition: all .5s;
 background: white;
 color: #2a5c84;
 }
+
 .main{
   background: #2da9af;
   padding: 10px 0 40px 0;
@@ -75,4 +76,11 @@ color: #2a5c84;
   height: 20px;
   margin-bottom:10px;
   border-radius: 100%;
+}
+
+.footer{
+  background: #f76560;
+  color: white;
+  text-align: center;
+  padding: 10px 0;
 }
